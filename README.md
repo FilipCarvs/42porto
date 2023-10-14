@@ -40,6 +40,6 @@ Organization is not my strength....
 
 | Rush | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
-| [C Piscine Rush 00](https://github.com/luis-ffe/42-piscine)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-116%20%2F%20100-green" />|
+| [C Piscine Rush 00](https://github.com/luis-ffe/42-piscine)| 00 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-116%20%2F%20100" />|
 
 </div>
