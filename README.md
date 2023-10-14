@@ -36,7 +36,6 @@ Organization is not my strength....
 | [C Piscine C06](https://github.com/luis-ffe/42-piscine)| 06 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
 | [C Piscine C07](https://github.com/luis-ffe/42-piscine)| 07 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-success" /> |
 | [C Piscine C08](https://github.com/luis-ffe/42-piscine)| 08 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-100%20%2F%20100-success" /> |
-| [C Piscine C08](https://github.com/luis-ffe/42-piscine)| 09 | <img src="https://img.shields.io/badge/status-done-success" /> | <img src="https://img.shields.io/badge/score-60%20%2F%20100-fail" /> |
 
 | Rush | Rank | Status | Score | 
 | :---: | :---: | :---: | :---: |
